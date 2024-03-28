@@ -18,8 +18,8 @@ def txt():
     pen.up()
     pen.setpos(-60, 100)
     pen.color('red')
-    ##license('Ankit_Bhaiya');
-    #str1="Akit bhaiya"
+    ##license('Python');
+    #str1="Python"
     #print(pen .write(center(50))
     pen.write('Python_', font=("Comic Sans MS", 20))
 txt()
